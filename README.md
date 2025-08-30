@@ -19,11 +19,3 @@ O foco foi aplicar conceitos de **HTML, CSS e responsividade**, sem back-end ou 
   - Design responsivo para diferentes tamanhos de tela  
 
 ---
-
-## 📂 Estrutura do projeto
-instagram-ui-clone/
-│── assets/
-│ └── imagens, ícones...
-│── index.html
-│── style.css
-│── signup.html
